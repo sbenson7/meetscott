@@ -2625,6 +2625,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 10px;
   margin-bottom: 0px; }
 
+
+.desc-nav {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #fff;}
+
 .about-content {
   margin-top: 190px;
   margin-bottom: 112px;
